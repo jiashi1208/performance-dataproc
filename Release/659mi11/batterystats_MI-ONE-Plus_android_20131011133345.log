@@ -1,0 +1,20 @@
+测试时间: 600310 ms
+CPU时间: 31300.00 ms
+CPU时间(前台): 0.00 ms
+CPU时间(唤醒): 39364.00 ms
+CPU耗电: 964.74 uAh
+接收数据量: 0 Bytes
+发送数据量: 0 Bytes
+网络传输耗电: 0.00 uAh
+GPS时间: 0.00 ms
+GPS耗电: 0.00 uAh
+Sensors数量: 2
+	Sensors型号: LIS3DH 3-axis Accelerometer | STMicroelectronics
+	Sensors时间: 2222245
+	Sensors耗电: 117.29 uAh
+	Sensors型号: HMC5883L Orientation Sensor | Honeywell International
+	Sensors时间: 2219797
+	Sensors耗电: 296.10 uAh
+Sensors总耗电: 80.04 uAh
+总耗电: 1044.78 uAh
+

@@ -1,0 +1,20 @@
+测试时间: 978080 ms
+CPU时间: 0.00 ms
+CPU时间(前台): 0.00 ms
+CPU时间(唤醒): 0.00 ms
+CPU耗电: 0.00 uAh
+接收数据量: 0 Bytes
+发送数据量: 0 Bytes
+网络传输耗电: 0.00 uAh
+GPS时间: 0.00 ms
+GPS耗电: 0.00 uAh
+Sensors数量: 2
+	Sensors型号: Proximity sensor | Taos
+	Sensors时间: 657406
+	Sensors耗电: 136.96 uAh
+	Sensors型号: Proximity sensor | Taos
+	Sensors时间: 657406
+	Sensors耗电: 273.92 uAh
+Sensors总耗电: 136.96 uAh
+总耗电: 0.00 uAh
+
